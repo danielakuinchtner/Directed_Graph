@@ -1,5 +1,5 @@
 # Directed_Graph
-This program implements a valued directed graph.
+This program implements a valued directed graph using dijkstra.
 
 
 ## Commands
